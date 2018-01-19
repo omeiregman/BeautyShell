@@ -229,6 +229,34 @@ i.fa.fa-shopping-cart {
     padding: 150px 0;
 }
 
+.cover-section-about {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/header-about.jpeg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.cover-section-services {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/header-img.jpeg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.cover-sectionp-products {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/header-img.jpeg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0;
+}
+
+.cover-section-contact {
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/header-img.jpeg) no-repeat;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 0;
+}
+
 .container {
 }
 
