@@ -230,7 +230,7 @@ i.fa.fa-shopping-cart {
 }
 
 .cover-section-about {
-    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/header-about.jpeg) no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/header-img.jpeg) no-repeat;
     background-size: cover;
     text-align: center;
     padding: 150px 0;
@@ -481,7 +481,8 @@ MESSAGE SECTION
 
 .news-section {
     display: block;
-    background: url(../image/news-bg.jpg) no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/header-about.jpeg) no-repeat;
+    background-position: bottom -120px right 0px;
     background-size: cover;
     padding: 75px 0;
 }
@@ -513,7 +514,7 @@ MESSAGE SECTION
 }
 
 .content {
-    padding-top: 13%
+    padding-top: 10%
 }
 
 .content > span {
@@ -525,12 +526,12 @@ MESSAGE SECTION
 }
 
 .content > p {
-    font-size: 30px;
+    font-size: 15px;
     font-family:'ProximaNovaA-Bold';
-    font-weight: 700;
+    font-weight: 250;
     text-align: left;
     color:#e42a97;
-    line-height: 40px;
+    line-height: 15px;
 }
 
 /*
